@@ -7,17 +7,29 @@ A new Flutter application., This application fetches the data from back-end with
 Flutter Widgets
 Bloc
 Api & get
+
 Api & Post
+
 Api & Put
+
 Api & Update
+
 Api & search
+
 Dio Package
+
 SharedPreference
+
 Theme
+
 onBoarding Screen 
+
 Register
+
 Login
+
 Profile
+
 ![image1](https://user-images.githubusercontent.com/75587814/162093751-6fece26e-dbb1-4bff-82ae-e109e63ecc8a.jpeg)
 ![image2](https://user-images.githubusercontent.com/75587814/162093755-6877ceea-3584-435a-a2f1-c4051d96e075.jpeg)
 ![image3](https://user-images.githubusercontent.com/75587814/162093761-f2a58bd1-6b4f-4e3b-a64c-db0e0c36f8b9.jpeg)
